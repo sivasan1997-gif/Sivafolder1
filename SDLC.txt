@@ -1,0 +1,55 @@
+SDLC
+
+Software Development Life Cycle.
+
+It is a step by step process that a team need to plan, build, test and maintain software.
+
+It is used for High quality, cost saving, predictable timeline, better teamwork.
+
+7 PHASE of the Glance (SDLC):
+
+1) Planning :Set the goal,scope,budget and timeline and check the feasibility (people,money,technology), validate the risk factor- This will be done by Project managers,business leaders, senior engg, client.
+
+2) Requirement: Business analyst, product owner, client and users - The person who get the requirements from the clients and note the fuctional needs(Speed, recovery, capacity) and agreement signing.
+
+
+{Requirement phase of the cx for Example:
+
+#Data source in excel ---moving ---> To Cloud --> (Data engg needs for this)
+#Cloud data ---> add column in that data in the existing sheet in cloud ---> Formula(Total sales (column): Quantity X unit price   1 soap : 10x2) in excel sheet -- Data engineer needed.
+#Then move that data to visualization --> Chart/power bi --(BI developers needed)}
+
+3) Design :  Move, transform and visual making - blueprint preparation before starting - design the architecture, sketch the screens users will see(UI/UX design, plan the database, choose the technology, tools, servers)     -- The team sketches the login screen and designs the app to a secure cloud server.
+
+
+4) Development : Start developing the project - 1st phase completed, 2nd phase completed after completion we need to go for testing
+(The blueprint becomes real as working code-- Developers start writing code based on the design, and the work will be split in to small task across the team, and the written code is stored and shared using version control (GIT), peers review each other code and keep the quality high.  (Front end - backend developers)
+
+5) Testing : Will check every thing is wrong or not ( I identify is there any bugs or not), ensure data quality - And inform and rectify -(QA testing team, testers, real users) 
+
+6) Deployment : Now we will give the project to the end cx (Devops team, support team -- Release the product in the production environment-- Move it to meta--smallgroup-- Everyone ) and monitor closely for issues in the first hours and days and then train users and hand over release notes.
+
+7) Maintenance: The end cx will ask the developing team to maintain the setup for future for precaution (24/7 support)- Support engg- update, patches, new versions of the product.
+
+
+
+
+---------------------------------------
+Planning: Client, project managers, senier engineer
+Requirement: Business analyst, product owner, clients
+Design: Architect.
+Development: Front/backend, data engg/BI engg / data Analyst.
+testing: Testers/QA engineer
+Maintenance: Support Engg (24/7)
+
+---------------------------------------
+
+SDLC Models
+
+Waterfall:  
+Agile: 90% of company using now.(SDLC Implementing method)
+Iterative
+Spiral
+V-Model
+
+
