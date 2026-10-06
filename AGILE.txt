@@ -1,0 +1,29 @@
+Waterfall method - Requirement->design->Implementation->Testing->Deployement
+
+Customer sees the product only at the very end
+Change requests are expensive and disruptive
+Testing happens late — bugs found too late to fix cheaply
+High risk of delivering something nobody wanted
+
+Agile:(2001)Roles: 
+
+Iterative, Incremental, Collaborative
+Cx collaboration, Responding to changes.
+
+Popular Agile frameworks:
+
+Scrum: 58%  - Trasperancy,Inspection, Adaptation.
+Kanban: 7%  -Flow based Agile without fixed sprits.
+XP: 1 % 
+Safe: 30%
+
+
+Scrum Roles: 
+
+Product Owner: Represent cx and stakeholder voice.
+Scrum master: Shield the team and promotes continuous improvement and conduct scrum events.
+Development Team: Cross functional (dev,QA, Design, etc)
+
+Scrum Events: Sprit , sprit planning, daily stand up, sprit review, Retrospective.
+
+Sprit Cycle: Product backlog, sprit planning, sprit backlog, Daily work +standups, Sprit review, Retrospective -> feedback -> next sprit.
