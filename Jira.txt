@@ -1,0 +1,23 @@
+JIRA:
+
+Every piece of work is a card - The card moves left to right as work progresses and every thing is recorded.
+
+The deck is a 45 minutes Intro for Agile/Scrum team,
+
+Agile meetings (Planning,standups, retros) need a place to live - > Jira is that place
+
+Jira -> It follows the flow : Plan->build->Track->Release --->> Using the backlog, the board,status changes and comments and version tags and reports.
+
+
+Every thing is Jira is called as Issue-- But issue nest folders:
+
+Epic: A big goal that spans several sprints (Ex: Migrate HR data)
+Story/Task : One deliverable piece of work.
+sub-task: A small tech step inside a story.
+Bug: A defect, which can be logged against any level.
+
+Jira is a tool - The teams use to organize and track their work like a shared digital notice board.
+Every piece of work wheather a big goal, a small task, or a bug becomes a card called an issue that holds the details who's doing it, how urgent it is and any comments.
+Planned work sits in a list called Backlog and every couple of weeks the team picks some items to do in a short work period called sprit, Cards move across a board from To DO -> In Progress -> In review -> Done, So every one can see what's happening at a glance.
+
+Jira also keeps a history of every change and can show charts of how fast the team working which help them to plan better next time.
